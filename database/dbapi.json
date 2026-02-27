@@ -1,0 +1,20 @@
+{
+  "users": {
+    "76583779979519@lid": {
+      "streak": 4,
+      "lastStreakDay": "2/27/2026",
+      "isStreakActive": true,
+      "recoveryCount": 0,
+      "lastRecoveryMonth": 2,
+      "lastStreakBeforeDeath": 0
+    },
+    "138307241529396@lid": {
+      "streak": 3,
+      "lastStreakDay": "2/27/2026",
+      "isStreakActive": true,
+      "recoveryCount": 0,
+      "lastRecoveryMonth": 2,
+      "lastStreakBeforeDeath": 0
+    }
+  }
+}
