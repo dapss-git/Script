@@ -1,0 +1,35 @@
+[
+  {
+    "nama": "LUCAS",
+    "uid": "4063-6UA-450",
+    "owner": "174990271987890@lid",
+    "date": "26/2/2026"
+  },
+  {
+    "nama": "DAPS",
+    "uid": "1753-AO5-523",
+    "owner": "138307241529396@lid",
+    "date": "26/2/2026",
+    "card": "`███▓▒░   BLACK FLAG IDENTITY   ░▒▓███`\n\n`[ IDENTITY RECORD ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*NAME      :* DAPS\n*UID       :* `1753-AO5-523`\n*CODE NAME :* VISCOUNT BLADE\n*FACTION   :* PORT BLACKWATER\n*ROLE      :* VISCOUNT\n\n`[ COMBAT DATA ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*HP* *▰▰▰▰▰▰▰▰▰▰* 100%\n*ATK* *▰▰▰▱▱▱▱▱▱▱* 26%\n*DEF* *▰▰▱▱▱▱▱▱▱▱* 16%\n*SPD* *▰▰▰▰▰▰▰▰▱▱* 83%\n\n`[ SPECIAL ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*SKILL     :* HIDDEN BLADES*\n*PASSIVE   :* VIBRATION SENSE*\n*BOUNTY    :* 2.000*\n*STATUS     :* DEAD*\n\n*\"Freedom is earned in blood.\"*\n*━━━━━━━━━━━━━━━━━━━━━━*"
+  },
+  {
+    "nama": "LYNN",
+    "uid": "2917-V6G-403",
+    "owner": "140041988907094@lid",
+    "date": "26/2/2026"
+  },
+  {
+    "nama": "KAZEHAYA",
+    "uid": "6267-5PC-503",
+    "owner": "196378890387595@lid",
+    "date": "27/2/2026",
+    "card": "`███▓▒░   BLACK FLAG IDENTITY   ░▒▓███`\n\n`[ IDENTITY RECORD ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*NAME      :* KAZEHAYA\n*UID       :* `6267-5PC-503`\n*CODE NAME :* CODE\n*FACTION   :* DARK PARADISE\n*ROLE      :* NECROMANCER \n\n`[ COMBAT DATA ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*HP* *▰▰▰▰▰▰▰▰▰▰* 100%\n*ATK* *▰▰▰▰▰▰▰▱▱▱* 68%\n*DEF* *▰▰▰▱▱▱▱▱▱▱* 29%\n*SPD* *▰▰▰▰▰▰▰▰▰▰* 100%\n\n`[ SPECIAL ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*SKILL     :* CALLING THE UNDEAD\n*PASSIVE   :* DEATH TOUCH\n*BOUNTY    :* 2.000\n*STATUS    :* ACTIVE\n\n*\"Freedom is earned in blood.\"*\n*━━━━━━━━━━━━━━━━━━━━━━*"
+  },
+  {
+    "nama": "ISHIKA",
+    "uid": "8873-6SM-784",
+    "owner": "11979418804461@lid",
+    "date": "27/2/2026",
+    "card": "`███▓▒░   BLACK FLAG IDENTITY   ░▒▓███`\n\n`[ IDENTITY RECORD ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*NAME      :* ISHIKA\n*UID       :* `8873-6SM-784`\n*CODE NAME :* SCARLETT\n*FACTION   :* OBSIDIAN ISLAND\n*ROLE      :* SHADOW CONSUL\n\n`[ COMBAT DATA ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*HP* *▰▰▰▰▰▰▰▰▰▰* 100%\n*ATK* *▱▱▱▱▱▱▱▱▱▱* 4%\n*DEF* *▰▰▰▰▰▰▱▱▱▱* 58%\n*SPD* *▰▱▱▱▱▱▱▱▱▱* 10%\n\n`[ SPECIAL ]`\n*━━━━━━━━━━━━━━━━━━━━━━*\n*SKILL     :* MARIONETTE DOMINION\n*PASSIVE   :* VEIL OF MANIPULATION\n*BOUNTY    :* 2.000\n*STATUS    :* ACTIVE\n\n*\"Freedom is earned in blood.\"*\n*━━━━━━━━━━━━━━━━━━━━━━*"
+  }
+]
